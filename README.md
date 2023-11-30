@@ -6,8 +6,7 @@ Terdapat 2 level untuk pengguna:
 - Level 1: Admin
 - Level 2: User
 
-#FITUR
-Fitur Utama
+##FITUR
 Manajemen Anggota: Menambah, mengedit, dan menghapus data anggota bank sampah.
 Manajemen Jenis Sampah: Pengelolaan jenis-jenis sampah yang diterima oleh bank sampah.
 Pencatatan Transaksi: Mencatat setiap transaksi masuk dan keluar sampah dari bank sampah.
