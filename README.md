@@ -6,7 +6,15 @@ Terdapat 2 level untuk pengguna:
 - Level 1: Admin
 - Level 2: User
 
+##FITUR
+Fitur Utama
+Manajemen Anggota: Menambah, mengedit, dan menghapus data anggota bank sampah.
+Manajemen Jenis Sampah: Pengelolaan jenis-jenis sampah yang diterima oleh bank sampah.
+Pencatatan Transaksi: Mencatat setiap transaksi masuk dan keluar sampah dari bank sampah.
+Laporan Transaksi: Menyediakan laporan transaksi bulanan untuk pemantauan dan analisis.
+
 <h3>Preview Aplikasi SAPU </h3>
+
 <p>SAPU</p>
 <img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Desktop1/main/Dokumentasi/sistem%20pembayaran%20spp.png">
 
