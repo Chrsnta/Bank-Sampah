@@ -7,7 +7,7 @@ Terdapat 2 level untuk pengguna:
 - Level 2: User
 
 <h3>FITUR</h3>
-<p>.eManajemen Anggota: Menambah, mengedit, dan menghapus data anggota bank sampah.</p>
+<p>1.Manajemen Anggota: Menambah, mengedit, dan menghapus data anggota bank sampah.</p>
 <p>2.Manajemen Jenis Sampah: Pengelolaan jenis-jenis sampah yang diterima oleh bank sampah.</p>
 <p>3.Laporan Transaksi: Menyediakan laporan transaksi bulanan untuk pemantauan dan analisis.</p>
 
