@@ -29,3 +29,12 @@ Menurut BPS, pada tahun 2020, jumlah penduduk Kota Banjarmasin mencapai 657.663 
 <img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.26_6e11c3c2.jpg?alt=media&token=48129c77-f77f-4319-9629-5ed53c6900f8"width="500">
 <img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.56_92d69e8e.jpg?alt=media&token=577dc89f-0db4-4a0d-b6a3-558d674090d7"width="500">
 <img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.43_4634573f.jpg?alt=media&token=47bdc1de-3eb9-46f0-ad5f-593a8d6fcdc1"width="500">
+
+### Risk and Issue Management Plan
+
+| Strengths | Weaknesses | Opportunities | Threats |
+| ------ | ------ | ------ | ------ |
+| Efisiensi pengelolaan sampah: Aplikasi bank sampah dapat meningkatkan efisiensi pengelolaan sampah dengan memberikan informasi real-time tentang penyetoran dan penarikan sampah.| Aksesibilitas teknologi: Tidak semua masyarakat mungkin memiliki akses ke perangkat teknologi yang diperlukan untuk menggunakan aplikasi bank sampah.
+|Peningkatan partisipasi masyarakat: Aplikasi bank sampah dapat mendorong lebih banyak orang untuk berpartisipasi dalam pengelolaan sampah yang berkelanjutan. | Persaingan aplikasi sejenis: Persaingan dengan aplikasi serupa dalam ruang pengelolaan sampah.|
+| Dukungan teknologi: Penggunaan teknologi dalam aplikasi dapat.| Milestones are not in accordance with the planned schedule | Add new experiences in terms of building projects. | Competitors often provide features that are more complete and easy to use. |
+| It's easy to get references in project work. | Short time for project work. |  | Idea Project has similarities with other teams. |
