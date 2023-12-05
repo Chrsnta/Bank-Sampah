@@ -11,6 +11,13 @@
 ### Tema:
 Sumber Daya Alam, Ekosistem dan Perubahan Iklim
 
+### Executive Summary:
+Menurut BPS, pada tahun 2020, jumlah penduduk Kota Banjarmasin mencapai 657.663 jiwa dengan kepadatan 6.727 jiwa per kilometer persegi. Antara tahun 2020-2021, laju pertumbuhan penduduk adalah 0,95%, sehingga diperkirakan jumlah penduduk pada tahun 2021 mencapai sekitar 662.230 jiwa. Dalam menghadapi masalah jumlah penduduk yang besar, perlu adanya upaya untuk mengurangi jumlah sampah yang dibuang ke lingkungan secara tidak terkendali, terutama di wilayah bantaran sungai. Ekspetasi kami terhadap aplikasi ini Aplikasi SAPU dapat digunakan masyarakat untuk memanfaatkan barang bekas, mendukung pengrajin produk daur ulang dan mengurangi sampah di Kota Banjarmasin maupun di Indonesia. Dengan demikian, aplikasi ini memiliki potensi untuk meningkatkan perekonomian lokal.
+
+### Executive Summary:
+Menurut BPS, pada tahun 2020, jumlah penduduk Kota Banjarmasin mencapai 657.663 jiwa dengan kepadatan 6.727 jiwa per kilometer persegi. Antara tahun 2020-2021, laju pertumbuhan penduduk adalah 0,95%, sehingga diperkirakan jumlah penduduk pada tahun 2021 mencapai sekitar 662.230 jiwa. Dalam menghadapi masalah jumlah penduduk yang besar, perlu adanya upaya untuk mengurangi jumlah sampah yang dibuang ke lingkungan secara tidak terkendali, terutama di wilayah bantaran sungai. Ekspetasi kami terhadap aplikasi ini Aplikasi SAPU dapat digunakan masyarakat untuk memanfaatkan barang bekas, mendukung pengrajin produk daur ulang dan mengurangi sampah di Kota Banjarmasin maupun di Indonesia. Dengan demikian, aplikasi ini memiliki potensi untuk meningkatkan perekonomian lokal.
+
+
 
 <h3>FITUR</h3>
 <p>1.Manajemen Anggota: Menambah, mengedit, dan menghapus data anggota bank sampah.</p>
@@ -19,12 +26,6 @@ Sumber Daya Alam, Ekosistem dan Perubahan Iklim
 
 
 <h3>Preview Aplikasi SAPU </h3>
-
-<p>SAPU</p>
-<img src="">
-
-<p>Tampilan Dasboard Admin</p>
-<img src="">
-
-<p>Tampilan Dasboard petugas</p>
-<img src="">
+<img src="gs://yudahasibuann23.appspot.com/WhatsApp Image 2023-11-28 at 20.47.26_6e11c3c2.jpg">
+<img src="gs://yudahasibuann23.appspot.com/WhatsApp Image 2023-11-28 at 20.48.32_2b6f5b3f.jpg">
+<img src="gs://yudahasibuann23.appspot.com/WhatsApp Image 2023-11-28 at 20.47.56_92d69e8e.jpg">
