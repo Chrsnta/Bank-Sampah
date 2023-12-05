@@ -1,5 +1,5 @@
 ## SAPU(Sampah Penghasil Uang)
-## _Capstone Project SIB - Dicoding Academy X Kampus Merdeka_
+## _Capstone Project SIB C523-PS070 - Dicoding Academy X Kampus Merdeka_
 <p align="center">
   <a href="https://github.com">
     <img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/Abstract%20Bank%20Card%20Logo.png?alt=media&token=26ee5ba3-89f0-4c2a-85dd-7fc400dbe7fb" alt="SAPU" width="300">
