@@ -9,7 +9,8 @@
  SAPU adalah aplikasi berbasis web yang bertujuan untuk memudahkan pengelolaan dan pelaporan transaksi pada sebuah bank sampah. Aplikasi ini dirancang untuk membantu mengelola daftar anggota, jenis sampah, transaksi masuk-keluar sampah, serta menyediakan laporan transaksi secara terperinci.
 
 ### Tema:
-Utility Application Solutions
+Sumber Daya Alam, Ekosistem dan Perubahan Iklim
+
 
 <h3>FITUR</h3>
 <p>1.Manajemen Anggota: Menambah, mengedit, dan menghapus data anggota bank sampah.</p>
