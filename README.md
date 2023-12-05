@@ -26,6 +26,6 @@ Menurut BPS, pada tahun 2020, jumlah penduduk Kota Banjarmasin mencapai 657.663 
 
 
 <h3>Preview Aplikasi SAPU </h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.26_6e11c3c2.jpg?alt=media&token=48129c77-f77f-4319-9629-5ed53c6900f8">
-<img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.56_92d69e8e.jpg?alt=media&token=577dc89f-0db4-4a0d-b6a3-558d674090d7">
-<img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.43_4634573f.jpg?alt=media&token=47bdc1de-3eb9-46f0-ad5f-593a8d6fcdc1">
+<img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.26_6e11c3c2.jpg?alt=media&token=48129c77-f77f-4319-9629-5ed53c6900f8"width="500">
+<img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.56_92d69e8e.jpg?alt=media&token=577dc89f-0db4-4a0d-b6a3-558d674090d7"width="500">
+<img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.43_4634573f.jpg?alt=media&token=47bdc1de-3eb9-46f0-ad5f-593a8d6fcdc1"width="500">
