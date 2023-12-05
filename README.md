@@ -6,7 +6,7 @@
   </a>
   <h3 align="center">SAPU</h3>
 </p>
- ## _Capstone Project SIB - Dicoding Academy X Kampus Merdeka_
+## _Capstone Project SIB - Dicoding Academy X Kampus Merdeka_
  
  SAPU adalah aplikasi berbasis web yang bertujuan untuk memudahkan pengelolaan dan pelaporan transaksi pada sebuah bank sampah. Aplikasi ini dirancang untuk membantu mengelola daftar anggota, jenis sampah, transaksi masuk-keluar sampah, serta menyediakan laporan transaksi secara terperinci.
 
