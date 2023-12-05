@@ -31,7 +31,6 @@ Menurut BPS, pada tahun 2020, jumlah penduduk Kota Banjarmasin mencapai 657.663 
 <img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.43_4634573f.jpg?alt=media&token=47bdc1de-3eb9-46f0-ad5f-593a8d6fcdc1"width="500">
 
 ### Risk and Issue Management Plan
-
 | Strengths | Weaknesses | Opportunities | Threats |
 | ------ | ------ | ------ | ------ |
 | Efisiensi pengelolaan sampah: Aplikasi bank sampah dapat meningkatkan efisiensi pengelolaan sampah dengan memberikan informasi real-time tentang penyetoran dan penarikan sampah.| Aksesibilitas teknologi: Tidak semua masyarakat mungkin memiliki akses ke perangkat teknologi yang diperlukan untuk menggunakan aplikasi bank sampah.
