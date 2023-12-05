@@ -37,11 +37,11 @@ Menurut BPS, pada tahun 2020, jumlah penduduk Kota Banjarmasin mencapai 657.663 
 | Dukungan teknologi: Penggunaan teknologi dalam aplikasi dapat.|Keterbatasan literasi digital: Orang-orang yang kurang akrab dengan teknologi mungkin menghadapi kesulitan dalam menggunakan aplikasi.| Kolaborasi dengan mitra bisnis: Peluang untuk bermitra dengan bisnis lokal atau pemilik toko yang mendukung pengumpulan sampah.|Perlambatan pertumbuhan pengguna: Kemungkinan perlambatan pertumbuhan pengguna aplikasi setelah fase awal.||  Kemudahan akses: Aplikasi bank sampah memungkinkan masyarakat untuk lebih mudah berpartisipasi dalam program daur ulang.| Dibutuhkan infrastruktur: Keberhasilan aplikasi ini tergantung pada ketersediaan infrastruktur seperti jaringan internet.
 
 ## Referensi
-Article:Data Penduduk Banjarmasin Tahun 2021
+<b>Article<b/>: Data Penduduk Banjarmasin Tahun 2021
 https://www.banjarmasinkota.go.id/p/profil-kota-banjarmasin.html
 ·   	iarti, Rara, and Istijabatul Aliyah. 2015. Budaya Pengelolaan Sampah Berbasis Masyarakat Melalui Metode 5R Untuk Mewujudkan Lingkungan Bersih Dan Sehat Di Kabupaten Sukoharjo. Jurnal UNS Cakra Wisata 16(2): 9±22.
 
-Bahasa Pemrograman: Javascript
+<b>Bahasa Pemrograman<b/>: Javascript
 Software: Visual Studio Code, Figma, Google Chrome, Draw.io
 Framework: Boostrap, Express/Hapi, React JS
 Linter: ESLint
