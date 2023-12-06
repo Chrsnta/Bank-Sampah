@@ -2,7 +2,7 @@
 ## _Capstone Project SIB C523-PS070 - Dicoding Academy X Kampus Merdeka_
 <p align="center">
   <a href="https://github.com">
-    <img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/Abstract%20Bank%20Card%20Logo.png?alt=media&token=26ee5ba3-89f0-4c2a-85dd-7fc400dbe7fb" alt="SAPU" width="300">
+    <img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/Green%20Minimalist%20Money%20Bag%20Logo.png?alt=media&token=626fd5a8-145e-4040-8169-402f8d65c400" alt="SAPU" width="300">
   </a>
   <h3 align="center">SAPU</h3>
 </p>
