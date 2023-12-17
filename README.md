@@ -26,9 +26,8 @@ Pencarian tempat wisata di Indonesia seringkali kurang efisien dan kurang terorg
 <img src="https://github.com/Chrsnta/Gambar/blob/main/Screnshoot/halaman%20data%20tempat%20wisata.png"width="500">
 
 ### Risk and Issue Management Plan
-| Strengths | Weaknesses | Opportunities | Threats |
-| ------ | ------ | ------ | ------ |
-| - Antarmuka pengguna intuitif dan mudah digunakan.
+# Strengths 
+- Antarmuka pengguna intuitif dan mudah digunakan.
 - Fitur pencarian berbasis wilayah meningkatkan keterfokusan pengguna.
 - Informasi akurat dan lengkap mengenai tempat wisata.
 - Fitur Wishlist untuk merencanakan perjalanan dengan terorganisir. | Aksesibilitas teknologi: Tidak semua masyarakat mungkin memiliki akses ke perangkat teknologi yang diperlukan untuk menggunakan aplikasi bank sampah.|Peningkatan partisipasi masyarakat: Aplikasi bank sampah dapat mendorong lebih banyak orang untuk berpartisipasi dalam pengelolaan sampah yang berkelanjutan. | Persaingan aplikasi sejenis: Persaingan dengan aplikasi serupa dalam ruang pengelolaan sampah.|
