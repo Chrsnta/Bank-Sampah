@@ -6,34 +6,35 @@
   </a>
   <h3 align="center">MALALA</h3>
 </p>
- MALALA adalah aplikasi berbasis web yang bertujuan untuk memudahkan masyarakat dalam mencari tempat wisata yang terpercaya di seluruh Indonesia. Aplikasi ini juga dirancang untuk memudahkan pelaku UMKM tempat wisata agar dapat mempromosikan tempat wisata yang mereka punya. Terdapat fitur Rating yang dimana dapat membantu Calon pengunjung  untuk memilih destinasi wisata yang sesuai dengan preferensi dan ekspektasi mereka.
+ Malala adalah platform aplikasi berbasis web yang dirancang untuk mempermudah masyarakat dalam menemukan berbagai destinasi wisata di seluruh Indonesia. Tujuan utama dari platform ini adalah untuk meningkatkan efisiensi dan keterorganisasian dalam mencari informasi tentang berbagai jenis tujuan wisata. Aplikasi ini berkomitmen untuk menyediakan informasi tempat wisata yang akurat dan lengkap. Selain sebagai alat pencarian untuk pengunjung, Malala juga memiliki tujuan membantu pemilik destinasi pariwisata, khususnya para pelaku Usaha Mikro, Kecil, dan Menengah (UMKM), dalam mempromosikan destinasi wisata mereka kepada masyarakat.
 
 ### Tema:
-Sumber Daya Alam, Ekosistem dan Perubahan Iklim
+Sosial dan Budaya Berkelanjutan
 
 ### Executive Summary:
-Menurut BPS, pada tahun 2020, jumlah penduduk Kota Banjarmasin mencapai 657.663 jiwa dengan kepadatan 6.727 jiwa per kilometer persegi. Antara tahun 2020-2021, laju pertumbuhan penduduk adalah 0,95%, sehingga diperkirakan jumlah penduduk pada tahun 2021 mencapai sekitar 662.230 jiwa. Dalam menghadapi masalah jumlah penduduk yang besar, perlu adanya upaya untuk mengurangi jumlah sampah yang dibuang ke lingkungan secara tidak terkendali, terutama di wilayah bantaran sungai. Ekspetasi kami terhadap aplikasi ini Aplikasi SAPU dapat digunakan masyarakat untuk memanfaatkan barang bekas, mendukung pengrajin produk daur ulang dan mengurangi sampah di Kota Banjarmasin maupun di Indonesia. Dengan demikian, aplikasi ini memiliki potensi untuk meningkatkan perekonomian lokal.
-
-### Executive Summary:
-Menurut BPS, pada tahun 2020, jumlah penduduk Kota Banjarmasin mencapai 657.663 jiwa dengan kepadatan 6.727 jiwa per kilometer persegi. Antara tahun 2020-2021, laju pertumbuhan penduduk adalah 0,95%, sehingga diperkirakan jumlah penduduk pada tahun 2021 mencapai sekitar 662.230 jiwa. Dalam menghadapi masalah jumlah penduduk yang besar, perlu adanya upaya untuk mengurangi jumlah sampah yang dibuang ke lingkungan secara tidak terkendali, terutama di wilayah bantaran sungai. Ekspetasi kami terhadap aplikasi ini Aplikasi SAPU dapat digunakan masyarakat untuk memanfaatkan barang bekas, mendukung pengrajin produk daur ulang dan mengurangi sampah di Kota Banjarmasin maupun di Indonesia. Dengan demikian, aplikasi ini memiliki potensi untuk meningkatkan perekonomian lokal.
-
+Pencarian tempat wisata di Indonesia seringkali kurang efisien dan kurang terorganisir. Banyak orang yang ingin menjelajahi dan mengunjungi berbagai jenis  wisata, baik tempat wisata sejarah, wisata alam maupun tempat wisata edukasi seperti kebun binatang atau museum, namun sulit bagi mereka  untuk mendapatkan informasi yang akurat dan komprehensif tentang destinasi wisata tersebut. Selain itu, para pemilik destinasi wisata khususnya pelaku usaha mikro kecil dan menengah (UMKM) seringkali mengalami kesulitan dalam mempromosikan dan memperkenalkan tempat wisata yang dimilikinya kepada masyarakat luas.
 
 
 <h3>FITUR</h3>
-<p>1.Manajemen Anggota: Menambah, mengedit, dan menghapus data anggota bank sampah.</p>
-<p>2.Manajemen Jenis Sampah: Pengelolaan jenis-jenis sampah yang diterima oleh bank sampah.</p>
-<p>3.Laporan Transaksi: Menyediakan laporan transaksi bulanan untuk pemantauan dan analisis.</p>
+<p>1.Wishlist: Pengguna dapat memanfaatkan fitur Wishlist untuk mengelola daftar tempat wisata favorit, menandai destinasi yang ingin mereka kunjungi di masa depan, dan secara efektif merencanakan perjalanan dengan terorganisir.</p>
+<p>2.Pencarian berdasarkan wilayah : Fitur pencarian berbasis wilayah di platform membantu pengguna menemukan destinasi sesuai lokasi dan preferensi budaya.</p>
 
 
 <h3>Preview Aplikasi SAPU </h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.26_6e11c3c2.jpg?alt=media&token=48129c77-f77f-4319-9629-5ed53c6900f8"width="500">
-<img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.56_92d69e8e.jpg?alt=media&token=577dc89f-0db4-4a0d-b6a3-558d674090d7"width="500">
-<img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/WhatsApp%20Image%202023-11-28%20at%2020.47.43_4634573f.jpg?alt=media&token=47bdc1de-3eb9-46f0-ad5f-593a8d6fcdc1"width="500">
+<img src="https://github.com/Chrsnta/Gambar/blob/main/Screnshoot/AWAL.png"width="500">
+<img src="https://github.com/Chrsnta/Gambar/blob/main/Screnshoot/halaman%20dashboard.png"width="500">
+<img src="https://github.com/Chrsnta/Gambar/blob/main/Screnshoot/halaman%20data%20tempat%20wisata.png"width="500">
 
 ### Risk and Issue Management Plan
 | Strengths | Weaknesses | Opportunities | Threats |
 | ------ | ------ | ------ | ------ |
-| Efisiensi pengelolaan sampah: Aplikasi bank sampah dapat meningkatkan efisiensi pengelolaan sampah dengan memberikan informasi real-time tentang penyetoran dan penarikan sampah.| Aksesibilitas teknologi: Tidak semua masyarakat mungkin memiliki akses ke perangkat teknologi yang diperlukan untuk menggunakan aplikasi bank sampah.|Peningkatan partisipasi masyarakat: Aplikasi bank sampah dapat mendorong lebih banyak orang untuk berpartisipasi dalam pengelolaan sampah yang berkelanjutan. | Persaingan aplikasi sejenis: Persaingan dengan aplikasi serupa dalam ruang pengelolaan sampah.|
+|   <ul>
+    <li>Antarmuka pengguna intuitif dan mudah digunakan.</li>
+    <li>Fitur pencarian berbasis wilayah meningkatkan keterfokusan pengguna.</li>
+    <li>Informasi akurat dan lengkap mengenai tempat wisata.</li>
+    <li>Fitur Wishlist untuk merencanakan perjalanan dengan terorganisir.</li>
+  </ul>
+Memberdayakan pemilik destinasi pariwisata melalui promosi.| Aksesibilitas teknologi: Tidak semua masyarakat mungkin memiliki akses ke perangkat teknologi yang diperlukan untuk menggunakan aplikasi bank sampah.|Peningkatan partisipasi masyarakat: Aplikasi bank sampah dapat mendorong lebih banyak orang untuk berpartisipasi dalam pengelolaan sampah yang berkelanjutan. | Persaingan aplikasi sejenis: Persaingan dengan aplikasi serupa dalam ruang pengelolaan sampah.|
 | Dukungan teknologi: Penggunaan teknologi dalam aplikasi dapat.|Keterbatasan literasi digital: Orang-orang yang kurang akrab dengan teknologi mungkin menghadapi kesulitan dalam menggunakan aplikasi.| Kolaborasi dengan mitra bisnis: Peluang untuk bermitra dengan bisnis lokal atau pemilik toko yang mendukung pengumpulan sampah.|Perlambatan pertumbuhan pengguna: Kemungkinan perlambatan pertumbuhan pengguna aplikasi setelah fase awal.||  Kemudahan akses: Aplikasi bank sampah memungkinkan masyarakat untuk lebih mudah berpartisipasi dalam program daur ulang.| Dibutuhkan infrastruktur: Keberhasilan aplikasi ini tergantung pada ketersediaan infrastruktur seperti jaringan internet.
 
 ## Referensi
