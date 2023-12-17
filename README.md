@@ -28,13 +28,10 @@ Pencarian tempat wisata di Indonesia seringkali kurang efisien dan kurang terorg
 ### Risk and Issue Management Plan
 | Strengths | Weaknesses | Opportunities | Threats |
 | ------ | ------ | ------ | ------ |
-|   <ul>
-    <li>Antarmuka pengguna intuitif dan mudah digunakan.</li>
-    <li>Fitur pencarian berbasis wilayah meningkatkan keterfokusan pengguna.</li>
-    <li>Informasi akurat dan lengkap mengenai tempat wisata.</li>
-    <li>Fitur Wishlist untuk merencanakan perjalanan dengan terorganisir.</li>
-  </ul>
-Memberdayakan pemilik destinasi pariwisata melalui promosi.| Aksesibilitas teknologi: Tidak semua masyarakat mungkin memiliki akses ke perangkat teknologi yang diperlukan untuk menggunakan aplikasi bank sampah.|Peningkatan partisipasi masyarakat: Aplikasi bank sampah dapat mendorong lebih banyak orang untuk berpartisipasi dalam pengelolaan sampah yang berkelanjutan. | Persaingan aplikasi sejenis: Persaingan dengan aplikasi serupa dalam ruang pengelolaan sampah.|
+| - Antarmuka pengguna intuitif dan mudah digunakan.
+- Fitur pencarian berbasis wilayah meningkatkan keterfokusan pengguna.
+- Informasi akurat dan lengkap mengenai tempat wisata.
+- Fitur Wishlist untuk merencanakan perjalanan dengan terorganisir. | Aksesibilitas teknologi: Tidak semua masyarakat mungkin memiliki akses ke perangkat teknologi yang diperlukan untuk menggunakan aplikasi bank sampah.|Peningkatan partisipasi masyarakat: Aplikasi bank sampah dapat mendorong lebih banyak orang untuk berpartisipasi dalam pengelolaan sampah yang berkelanjutan. | Persaingan aplikasi sejenis: Persaingan dengan aplikasi serupa dalam ruang pengelolaan sampah.|
 | Dukungan teknologi: Penggunaan teknologi dalam aplikasi dapat.|Keterbatasan literasi digital: Orang-orang yang kurang akrab dengan teknologi mungkin menghadapi kesulitan dalam menggunakan aplikasi.| Kolaborasi dengan mitra bisnis: Peluang untuk bermitra dengan bisnis lokal atau pemilik toko yang mendukung pengumpulan sampah.|Perlambatan pertumbuhan pengguna: Kemungkinan perlambatan pertumbuhan pengguna aplikasi setelah fase awal.||  Kemudahan akses: Aplikasi bank sampah memungkinkan masyarakat untuk lebih mudah berpartisipasi dalam program daur ulang.| Dibutuhkan infrastruktur: Keberhasilan aplikasi ini tergantung pada ketersediaan infrastruktur seperti jaringan internet.
 
 ## Referensi
