@@ -26,22 +26,33 @@ Pencarian tempat wisata di Indonesia seringkali kurang efisien dan kurang terorg
 <img src="https://github.com/Chrsnta/Gambar/blob/main/Screnshoot/halaman%20data%20tempat%20wisata.png"width="500">
 
 ### Risk and Issue Management Plan
-# Strengths 
+#### Strengths :
 - Antarmuka pengguna intuitif dan mudah digunakan.
 - Fitur pencarian berbasis wilayah meningkatkan keterfokusan pengguna.
 - Informasi akurat dan lengkap mengenai tempat wisata.
-- Fitur Wishlist untuk merencanakan perjalanan dengan terorganisir. | Aksesibilitas teknologi: Tidak semua masyarakat mungkin memiliki akses ke perangkat teknologi yang diperlukan untuk menggunakan aplikasi bank sampah.|Peningkatan partisipasi masyarakat: Aplikasi bank sampah dapat mendorong lebih banyak orang untuk berpartisipasi dalam pengelolaan sampah yang berkelanjutan. | Persaingan aplikasi sejenis: Persaingan dengan aplikasi serupa dalam ruang pengelolaan sampah.|
-| Dukungan teknologi: Penggunaan teknologi dalam aplikasi dapat.|Keterbatasan literasi digital: Orang-orang yang kurang akrab dengan teknologi mungkin menghadapi kesulitan dalam menggunakan aplikasi.| Kolaborasi dengan mitra bisnis: Peluang untuk bermitra dengan bisnis lokal atau pemilik toko yang mendukung pengumpulan sampah.|Perlambatan pertumbuhan pengguna: Kemungkinan perlambatan pertumbuhan pengguna aplikasi setelah fase awal.||  Kemudahan akses: Aplikasi bank sampah memungkinkan masyarakat untuk lebih mudah berpartisipasi dalam program daur ulang.| Dibutuhkan infrastruktur: Keberhasilan aplikasi ini tergantung pada ketersediaan infrastruktur seperti jaringan internet.
+- Fitur Wishlist untuk merencanakan perjalanan dengan terorganisir.
 
-## Referensi
-<b>Article<b/>: Data Penduduk Banjarmasin Tahun 2021
-https://www.banjarmasinkota.go.id/p/profil-kota-banjarmasin.html
-·   	iarti, Rara, and Istijabatul Aliyah. 2015. Budaya Pengelolaan Sampah Berbasis Masyarakat Melalui Metode 5R Untuk Mewujudkan Lingkungan Bersih Dan Sehat Di Kabupaten Sukoharjo. Jurnal UNS Cakra Wisata 16(2): 9±22.
+#### Weaknesses :
+- Keterbatasan cakupan mitra
+- Membutuhkan akses internet untuk update data
+- Fitur yang kami buat dapat dikembangkan kembali menjadi lebih advance, seperti menambahkan fitur pembayaran langsung, dan juga chat live.
 
-<b>Bahasa Pemrograman<b/>: Javascript
-Software: Visual Studio Code, Figma, Google Chrome, Draw.io
-Framework: Boostrap, Express/Hapi, React JS
-Linter: ESLint
+#### Opportunities :
+- Kolaborasi dengan pelaku pariwisata lokal untuk promosi bersama.
+- Penambahan fitur pembaruan cuaca dan acara lokal.
+- Penambahan fitur sistem navigasi yang dapat membantu memandu masyarakat untuk menuju ke tempat wisata
+- Integrasi dengan teknologi AR yang dapat mempermudah masyarakat untuk melihat gambaran kondisi tempat wisata
+
+#### Threats :
+- Persaingan dengan aplikasi sejenis.
+- Risiko penggunaan data yang tidak aman.
+- Fluktuasi minat pengguna terhadap aplikasi sejenis.
+- Ketergantungan pada infrastruktur teknologi yang rentan terhadap gangguan.
+
+
+<b>Bahasa Pemrograman<b/>: Javascript, PHP
+Software: Visual Studio Code, Figma, Google Chrome, Figma, Postman, Docker,
+Framework: Boostrap, Laravel
 Testing: Postman
 Database: MySql
 Code Collaboration: Github
@@ -49,12 +60,12 @@ Code Collaboration: Github
 ## Our Tech Stacks
 
 ### UI/UX
-| [Figma](https://www.figma.com/)      | [Canva](https://www.canva.com/id_id/)      |
-|------------|------------|
-| <img src="https://user-images.githubusercontent.com/60727435/174691354-6a8a8794-60a1-4520-887f-0ca62bc2fd3e.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="100"> |
+| [Figma](https://www.figma.com/)      | 
+|------------|
+| <img src="https://user-images.githubusercontent.com/60727435/174691354-6a8a8794-60a1-4520-887f-0ca62bc2fd3e.svg" width="100"> |
 
 ### Back End
-| [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [PostgreSQL](https://www.postgresql.org/)      | [Postman](https://www.postman.com/)      | [NodeJS](https://nodejs.org/en/)      | [Express](https://expressjs.com/)      | [Sequelize](https://sequelize.org/)      |
+| [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [PHP](https://www.php.net/)      | [Postman](https://www.postman.com/)      | [Bootstrap](https://getbootstrap.com/)      | [Laravel](https://laravel.com/)      | [Docker](https://www.docker.com/get-started/)      | [MySql](https://www.mysql.com/)      |
 |-------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100"> | <img src="https://miro.medium.com/max/640/1*4b2A9LnOXidRaqXXU8CZMA.webp" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="100"> | <img src="https://img2.pngdownload.id/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" width="100"> | <img src="https://sequelize.org/img/logo.svg" width="100"> |
+| <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://en.wikipedia.org/wiki/PHP#/media/File:PHP-logo.svg" width="100"> | <img src="https://medium.com/@fitrizakiyatulhidayah/ngetes-api-pakai-pak-post-eng-testing-api-using-postman-part-1-151feb2760e4" width="100"> | <img src="https://en.wikipedia.org/wiki/Bootstrap_%28front-end_framework%29#/media/File:Bootstrap_logo.svg" width="100"> | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flaravel-news.com%2Fwhat-is-laravel&psig=AOvVaw1dxlsnTERianDoAhXfVClM&ust=1702927893825000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNin1vKal4MDFQAAAAAdAAAAABAR" width="100"> | <img src="https://miro.medium.com/v2/resize:fit:400/1*OARpkeBkn_Tw3vk8H769OQ.png" width="100"> | <img src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/03/03/1280790/540x270/mysql-adalah-sistem-manajemen-berbasis-data-ketahui-cara-kerjanya.png" width="100"> |
 
