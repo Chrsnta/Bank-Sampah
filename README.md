@@ -1,12 +1,12 @@
-## SAPU(Sampah Penghasil Uang)
-## _Capstone Project SIB C523-PS070 - Dicoding Academy X Kampus Merdeka_
+## MALALA(Platform mencari tempat wisata)
+## _Capstone Project SIB C523-PS053 - Dicoding Academy X Kampus Merdeka_
 <p align="center">
   <a href="https://github.com">
-    <img src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/Hijau%20Natural%20Toko%20Herbal%20atau%20Obat%20Tradisional%20Logo.png?alt=media&token=2cd7a8f6-8f31-4da5-8efe-c95c7aa57486" alt="SAPU" width="300">
+    <img src="https://drive.google.com/file/d/1rxe2fuymD0YxhhBTL4ABuLYEdTNeYS2c/view?usp=sharing" alt="MALALA" width="300">
   </a>
-  <h3 align="center">SAPU</h3>
+  <h3 align="center">MALALA</h3>
 </p>
- SAPU adalah aplikasi berbasis web yang bertujuan untuk memudahkan pengelolaan dan pelaporan transaksi pada sebuah bank sampah. Aplikasi ini dirancang untuk membantu mengelola daftar anggota, jenis sampah, transaksi masuk-keluar sampah, serta menyediakan laporan transaksi secara terperinci.
+ MALALA adalah aplikasi berbasis web yang bertujuan untuk memudahkan masyarakat dalam mencari tempat wisata yang terpercaya di seluruh Indonesia. Aplikasi ini juga dirancang untuk memudahkan pelaku UMKM tempat wisata agar dapat mempromosikan tempat wisata yang mereka punya. Terdapat fitur Rating yang dimana dapat membantu Calon pengunjung  untuk memilih destinasi wisata yang sesuai dengan preferensi dan ekspektasi mereka.
 
 ### Tema:
 Sumber Daya Alam, Ekosistem dan Perubahan Iklim
