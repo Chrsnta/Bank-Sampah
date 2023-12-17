@@ -50,12 +50,12 @@ Pencarian tempat wisata di Indonesia seringkali kurang efisien dan kurang terorg
 - Ketergantungan pada infrastruktur teknologi yang rentan terhadap gangguan.
 
 
-### Bahasa Pemrograman: Javascript, PHP
-### Software: Visual Studio Code, Figma, Google Chrome, Figma, Postman, Docker,
-### Framework: Boostrap, Laravel
-### Testing: Postman
-### Database: MySql
-### Code Collaboration: Github
+#### Bahasa Pemrograman: Javascript, PHP
+#### Software: Visual Studio Code, Figma, Google Chrome, Figma, Postman, Docker,
+#### Framework: Boostrap, Laravel
+#### Testing: Postman
+#### Database: MySql
+#### Code Collaboration: Github
 
 ## Our Tech Stacks
 
