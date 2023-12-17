@@ -2,7 +2,7 @@
 ## _Capstone Project SIB C523-PS053 - Dicoding Academy X Kampus Merdeka_
 <p align="center">
   <a href="https://github.com">
-    <img src="https://drive.google.com/file/d/1rxe2fuymD0YxhhBTL4ABuLYEdTNeYS2c/view?usp=sharing" alt="MALALA" width="300">
+    <img src="https://github.com/Chrsnta/Gambar/blob/main/Screnshoot/logo%20malala%20app.PNG" alt="MALALA" width="300">
   </a>
   <h3 align="center">MALALA</h3>
 </p>
